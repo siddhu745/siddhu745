@@ -159,15 +159,7 @@
         rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80" /> </a>
         </td>
-        <td style="padding: 100px;">
-            
-        </td>
-        <td style="padding: 100px;">
-            
-        </td>
-        <td style="padding: 100px;">
-            
-        </td>
+        
     </tr>
 
 </table>
